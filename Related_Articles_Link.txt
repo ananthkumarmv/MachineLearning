@@ -1,0 +1,67 @@
+Machine Learning Fundamentals:
+https://medium.com/almabetter/machine-learning-fundamentals-for-beginners-70f409b1197e
+
+
+
+Numpy:
+https://medium.com/@lucyji/numpy-tutorial-the-basics-3ecd2717b855
+
+
+
+Decision Tree:
+https://medium.datadriveninvestor.com/decision-tree-algorithm-with-hands-on-example-e6c2afb40d38
+
+
+
+Encoding Categorical Values in Python:
+https://pbpython.com/categorical-encoding.html
+
+
+
+Data Sets:
+https://archive.ics.uci.edu/ml/datasets.php
+
+
+Normalization:
+https://www.codecademy.com/articles/normalization#:~:text=Min%2Dmax%20normalization%20is%20one,decimal%20between%200%20and%201.
+https://t4tutorials.com/decimal-scaling-normalization-in-data-mining/
+
+
+Linear Regression:
+https://pub.towardsai.net/calculating-simple-linear-regression-and-linear-best-fit-an-in-depth-tutorial-with-math-and-python-804a0cb23660
+
+
+Gradient Descent:
+https://pub.towardsai.net/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556
+
+
+Train/Test Split and Cross Validation in Python:
+https://towardsdatascience.com/3-things-you-need-to-know-before-you-train-test-split-869dfabb7e50
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+
+
+Sentiment Analysis for Stock Price Prediction in Python:
+https://towardsdatascience.com/sentiment-analysis-for-stock-price-prediction-in-python-bed40c65d178
+
+
+How to Scale Machine Learning Data From Scratch With Python:
+https://machinelearningmastery.com/scale-machine-learning-data-scratch-python/
+
+Commonly used Machine Learning Algorithms:
+https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+
+Linear Regression
+Logistic Regression
+Decision Tree
+SVM
+Naive Bayes
+kNN
+K-Means
+Random Forest
+Dimensionality Reduction Algorithms
+Gradient Boosting algorithms
+GBM
+XGBoost
+LightGBM
+CatBoost
