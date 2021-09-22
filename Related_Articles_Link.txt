@@ -51,6 +51,41 @@ https://machinelearningmastery.com/scale-machine-learning-data-scratch-python/
 Commonly used Machine Learning Algorithms:
 https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
+
+
+Matrix decomposition:
+https://en.wikipedia.org/wiki/Matrix_decomposition
+
+
+
+Singular Value Decomposition:
+https://towardsdatascience.com/simple-svd-algorithms-13291ad2eef2#:~:text=General%20formula%20of%20SVD%20is,columns%20are%20left%20singular%20vectors).
+https://en.wikipedia.org/wiki/Singular_value_decomposition
+
+
+Singular Value:
+https://en.wikipedia.org/wiki/Singular_value
+
+
+Truncated SVD:
+https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html
+
+
+Moore–Penrose inverse:
+https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse
+
+
+Latent semantic analysis:
+https://en.wikipedia.org/wiki/Latent_semantic_analysis
+
+
+
+
+
+
+
+ML Algorithms:
+
 Linear Regression
 Logistic Regression
 Decision Tree
