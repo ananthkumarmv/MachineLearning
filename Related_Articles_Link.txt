@@ -79,7 +79,12 @@ Latent semantic analysis:
 https://en.wikipedia.org/wiki/Latent_semantic_analysis
 
 
+Understanding the Bias-Variance Tradeoff:
+https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
 
+
+Understanding the Bias-Variance Tradeoff:
+https://www.scribbr.com/statistics/variance/
 
 
 
