@@ -1,1 +1,0 @@
-https://medium.com/swlh/principal-component-analysis-from-scratch-in-python-2f139c6420c9
