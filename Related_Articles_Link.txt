@@ -87,6 +87,13 @@ Understanding the Bias-Variance Tradeoff:
 https://www.scribbr.com/statistics/variance/
 
 
+Preprocessing data:
+https://scikit-learn.org/stable/modules/preprocessing.html
+
+Linear Models:
+https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+
+
 
 
 ML Algorithms:
